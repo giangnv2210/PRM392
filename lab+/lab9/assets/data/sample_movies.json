@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Dune: Part Two",
+    "genre": "Sci-Fi",
+    "year": 2024
+  },
+  {
+    "id": 2,
+    "title": "Inside Out 2",
+    "genre": "Animation",
+    "year": 2024
+  },
+  {
+    "id": 3,
+    "title": "The Batman",
+    "genre": "Action",
+    "year": 2022
+  },
+  {
+    "id": 4,
+    "title": "Barbie",
+    "genre": "Comedy",
+    "year": 2023
+  }
+]

@@ -1,0 +1,10 @@
+export 'collector/bill_details_screen.dart';
+export 'collector/collect_payment_screen.dart';
+export 'collector/collection_history_screen.dart';
+export 'collector/collector_dashboard_screen.dart';
+export 'collector/collector_settings_screen.dart';
+export 'collector/customer_details_screen.dart';
+export 'collector/generate_bill_screen.dart';
+export 'collector/record_meter_reading_screen.dart';
+export 'collector/scan_qr_screen.dart';
+export 'collector/view_complaints_screen.dart';
