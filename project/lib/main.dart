@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'src/app.dart';
+import 'src/app/app.dart';
 
 void main() {
   runApp(const WaterBillApp());
